@@ -1,4 +1,4 @@
-<h1 align="center">ようこそ！I'm Kanji Miyatani</h1>
+<h1 align="center">Welcome！I'm Kanji Miyatani</h1>
 <h3 align="center">Engineer with 3 years of experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanji-miyatani&label=Profile%20views&color=0e75b6&style=flat" alt="kanji-miyatani" /> </p>
